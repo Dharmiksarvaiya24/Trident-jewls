@@ -88,7 +88,7 @@
   const redirectToWhatsApp = (product) => {
     const message = `Hi, I'm interested in purchasing ${product.name} for ₹${product.price.toLocaleString()}.`
     const encodedMessage = encodeURIComponent(message)
-    const whatsappURL = `https://wa.me/8780532068?text=${encodedMessage}`
+    const whatsappURL = `https://wa.me/+918780532068?text=${encodedMessage}`
     window.open(whatsappURL, '_blank')
   }
   

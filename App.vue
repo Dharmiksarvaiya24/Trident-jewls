@@ -12,7 +12,7 @@
 
     <!-- WhatsApp Icon -->
     <a
-      href="https://wa.me/8780532068"
+      href="https://wa.me/+918780532068"
       target="_blank"
       rel="noopener noreferrer"
       class="whatsapp-icon"
