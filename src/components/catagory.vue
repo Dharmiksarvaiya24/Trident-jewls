@@ -29,7 +29,7 @@ const emit = defineEmits(['changeComponent']);
 
 const categories = [
   { name: 'Rings', component: 'Rings', image: 'https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1000&q=80', description: 'Stunning rings to symbolize your love' },
-  { name: 'Earrings', component: 'Earrings', image: 'https://i.imghippo.com/files/IGh1879XRg.png', description: 'Beautiful earrings to complement your style' },
+  { name: 'Earrings', component: 'Earrings', image: 'https://i.pinimg.com/736x/ef/7d/7a/ef7d7a3d3cf5b2674dfe9d9f36454467.jpg', description: 'Beautiful earrings to complement your style' },
   { name: 'Necklaces', component: 'Necklaces', image: 'https://i.imghippo.com/files/MPqR1552NTc.png', description: 'Elegant necklaces for every occasion' },
   { name: 'Bracelets', component: 'Bracelets', image: 'https://i.imghippo.com/files/TeZ6727IM.png', description: 'Exquisite bracelets for a touch of elegance' },
 ];

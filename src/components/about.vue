@@ -62,7 +62,7 @@ const features = [
   {
     title: 'Pritesh Prajapati',
     description: 'Lead Designer and founder of Trident Jewelry',
-    image: 'https://i.imghippo.com/files/egLF7525lAc.jpeg'
+    image: 'https://i.imghippo.com/files/q8535UF.jpeg'
   },
 ]
 
